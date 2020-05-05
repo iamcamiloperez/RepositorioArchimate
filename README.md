@@ -11,7 +11,8 @@ _Grupo 2_
 * **Julia Liliana Sierra Rojas** - *Código* - 20201099047
 
 
-## Licencia 📄
+## Vista de organización 📄
 
-Este proyecto está bajo la Licencia GPL 
+## Funciones de negocio 📄
 
+## Procesos de negocio 📄
