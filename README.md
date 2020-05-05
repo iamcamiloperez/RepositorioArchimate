@@ -15,4 +15,6 @@ _Grupo 2_
 
 ## Funciones de negocio 📄
 
+![Casos de uso](https://github.com/iamcamiloperez/RepositorioArchimate/blob/master/models/FunciionesDeProceso.jpeg)
+
 ## Procesos de negocio 📄
