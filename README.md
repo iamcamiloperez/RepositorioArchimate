@@ -12,7 +12,7 @@ _Grupo 2_
 
 
 ## Vista de organización 📄
-![Casos de uso](https://github.com/iamcamiloperez/RepositorioArchimate/blob/master/models/Organizacion.png)
+![Casos de uso](https://github.com/iamcamiloperez/RepositorioArchimate/blob/master/models/Organizacion_1.png)
 
 ## Funciones de negocio 📄
 
