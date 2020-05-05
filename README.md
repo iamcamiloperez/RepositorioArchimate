@@ -19,3 +19,5 @@ _Grupo 2_
 ![Casos de uso](https://github.com/iamcamiloperez/RepositorioArchimate/blob/master/models/FunciionesDeProceso.jpeg)
 
 ## Procesos de negocio 📄
+
+![procesos](https://github.com/iamcamiloperez/RepositorioArchimate/blob/master/models/procesos.png)
