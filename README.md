@@ -22,5 +22,10 @@ _Grupo 2_
 
 ![procesos](https://github.com/iamcamiloperez/RepositorioArchimate/blob/master/models/procesos.png)
 
+## Punto de estructura de aplicación
+![procesos](https://github.com/iamcamiloperez/RepositorioArchimate/blob/master/models/estructura.png)
+
 ## Punto de vista de uso de aplicación 
 ![procesos](https://github.com/iamcamiloperez/RepositorioArchimate/blob/master/models/usageViewpoint2.png)
+
+
