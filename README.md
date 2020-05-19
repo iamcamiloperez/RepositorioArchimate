@@ -21,3 +21,6 @@ _Grupo 2_
 ## Procesos de negocio 📄
 
 ![procesos](https://github.com/iamcamiloperez/RepositorioArchimate/blob/master/models/procesos.png)
+
+## Punto de vista de uso de aplicación 
+![procesos](https://github.com/iamcamiloperez/RepositorioArchimate/blob/master/models/usageViewpoint.png)
