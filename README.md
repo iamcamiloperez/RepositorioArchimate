@@ -28,4 +28,7 @@ _Grupo 2_
 ## Punto de vista de uso de aplicación 📄
 ![procesos](https://github.com/iamcamiloperez/RepositorioArchimate/blob/master/models/usageViewpoint2.png)
 
+## Punto de vista de uso de infraestructura 📄
+![procesos](https://github.com/iamcamiloperez/RepositorioArchimate/blob/master/models/infraestructura.png)
+
 
