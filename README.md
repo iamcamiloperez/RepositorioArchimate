@@ -40,3 +40,6 @@ Grupos de interés: Arquitectos de empresas, procesos, aplicaciones, infraestruc
 Preocupaciones: Consistencia, reducción de la complejidad, impacto del cambio, flexibilidad
 Propósito:  Diseñar, decidir, informar.
 Alcance: Múltiples capas / Múltiples aspectos Elementos <Todos los elementos centrales y todas las relaciones están permitidos en este punto de vista.
+
+Las vistas a nivel de capas permite integrar los elementos escenciales de un sistema tales como los comportamientos como procesos (eje vertical), casos (eje horizontal) y la asignación de recursos como sistemas de información, infraestructura o recursos humanos general. además permite visualizar de manera más clara la estructura u organización de un proyecto gracias a la agrupación de segmentos especificos o capas tanto externos (roles, servicios de negocio, procesos, servicios de aplicación, componentes de aplicación, infraestructura de servicios, infraestructura).
+
