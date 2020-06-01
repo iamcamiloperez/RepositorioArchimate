@@ -32,3 +32,11 @@ _Grupo 2_
 ![procesos](https://github.com/iamcamiloperez/RepositorioArchimate/blob/master/models/infraestructura.png)
 
 
+## Vista a nivel de capas 📄
+
+El punto de vista en capas presenta una vista panorámica de los elementos centrales de todas las capas y aspectos de una arquitectura empresarial. El principio estructural detrás de un punto de vista completamente en capas es que cada capa dedicada expone, por medio de la relación de "realización", una capa de servicios, que están más "sirviendo" a la siguiente capa dedicada. Con este punto de vista, puede separar fácilmente la estructura interna y la organización de una capa dedicada de su comportamiento observable externamente expresado como la capa de servicio que realiza la capa dedicada.
+
+Grupos de interés: Arquitectos de empresas, procesos, aplicaciones, infraestructura y dominios.
+Preocupaciones: Consistencia, reducción de la complejidad, impacto del cambio, flexibilidad
+Propósito:  Diseñar, decidir, informar.
+Alcance: Múltiples capas / Múltiples aspectos Elementos <Todos los elementos centrales y todas las relaciones están permitidos en este punto de vista.
