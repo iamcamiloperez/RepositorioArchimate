@@ -41,5 +41,8 @@ Preocupaciones: Consistencia, reducción de la complejidad, impacto del cambio, 
 Propósito:  Diseñar, decidir, informar.
 Alcance: Múltiples capas / Múltiples aspectos Elementos <Todos los elementos centrales y todas las relaciones están permitidos en este punto de vista.
 
-Las vistas a nivel de capas permite integrar los elementos escenciales de un sistema tales como los comportamientos como procesos (eje vertical), casos (eje horizontal) y la asignación de recursos como sistemas de información, infraestructura o recursos humanos general. además permite visualizar de manera más clara la estructura u organización de un proyecto gracias a la agrupación de segmentos especificos o capas tanto externos (roles, servicios de negocio, procesos, servicios de aplicación, componentes de aplicación, infraestructura de servicios, infraestructura).
+## Punto de vista de mapa panoramico (Landscape map viewpoint) 📄
 
+El punto de vista de mapa panoramico permite integrar los elementos escenciales de un sistema tales como los comportamientos como procesos (eje vertical), casos (eje horizontal) y la asignación de recursos como sistemas de información, infraestructura o recursos humanos general. además permite visualizar de manera más clara la estructura u organización de un proyecto gracias a la agrupación de segmentos especificos o capas tanto externos (roles, servicios de negocio, procesos, servicios de aplicación, componentes de aplicación, infraestructura de servicios, infraestructura).
+
+Como sintesis se puede indicar que las vistas a nivel de capas proporcionan una base estructural concreta para el desarrollo de aplicaciones escalables faclilitando un modelamiento entendible con limites bien definidos donde cada capa de servicios es utlizada por la siguiente. Es posible con este modelamiento diferenciar la estructura interna y externa de cada capa así como la secuencialidad entre las mismas y su funcionalidad especifica.
